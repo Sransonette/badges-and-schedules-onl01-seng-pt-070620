@@ -1,0 +1,1 @@
+def badge_maker("Arel")
